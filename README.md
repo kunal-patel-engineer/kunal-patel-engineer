@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kunal-patel-engineer
-- 👀 I’m interested in Software Development and Data Science
+- 👋 Hi, I’m @kunal-patel-engineer (.Net FullStack Developer and Big Data Technologies Student)
+- 👀 I’m interested in Software Development (.Net) and Data Science
 - 🌱 I’m currently learning Data science (Big data and Machine learning)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
